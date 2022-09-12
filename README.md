@@ -12,7 +12,7 @@ MINIMUM REQUIREMENTS
 	- if not please install the dev version (android only) from https://play.google.com/store/apps/details?id=ch.opengis.qfield_dev 
 
 FOLDER STRUCTURE
-GISQuick - Project and data files for Web display
-QField - Project and data for Mobile sync
-Cheat_Files - Predesigned projects/data for skipping steps
-Presentation - Presentation files
+*GISQuick - Project and data files for Web display
+*QField - Project and data for Mobile sync
+*Cheat_Files - Predesigned projects/data for skipping steps
+*Presentation - Presentation files
