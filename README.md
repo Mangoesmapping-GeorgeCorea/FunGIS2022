@@ -14,9 +14,7 @@ Click clone to download the data and project files, ideally prior to the confere
 
 ## FOLDER STRUCTURE
 
-*GISQuick - Project and data files for Web display
-
-*QField - Project and data for Mobile sync
+*Complete_Example - Project and data for Web and Mobile sync
 
 *Cheat_Files - Predesigned projects/data for skipping steps
 
