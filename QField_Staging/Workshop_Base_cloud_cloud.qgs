@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveDateTime="2022-09-16T08:54:01" projectname="FunGIS Web and Mobile QGIS Workshop (QFieldCloud)" saveUserFull="George" version="3.22.11-Białowieża" saveUser="george">
+<qgis saveDateTime="2022-09-16T09:05:51" projectname="FunGIS Web and Mobile QGIS Workshop (QFieldCloud)" saveUserFull="George" version="3.22.11-Białowieża" saveUser="george">
   <homePath path=""/>
   <title>FunGIS Web and Mobile QGIS Workshop (QFieldCloud)</title>
   <autotransaction active="0"/>
@@ -160,18 +160,18 @@
   </layer-tree-group>
   <snapping-settings intersection-snapping="0" scaleDependencyMode="0" maxScale="0" type="1" self-snapping="0" enabled="0" tolerance="12" unit="1" mode="2" minScale="0">
     <individual-layer-settings>
+      <layer-setting id="Watercourse_lines_7d30e337_49dc_4b76_99c4_d62c16fd0d1f" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
       <layer-setting id="Record_a_place_822e3316_8028_4714_953b_bcf309a6251a" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
-      <layer-setting id="Record_an_area_92f9975b_4cd4_4139_a3d6_7e5949dd4a83" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
-      <layer-setting id="Emergency_services_facilities_06caa9d4_a0ae_45d0_b5d0_4faef5dc310d" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
       <layer-setting id="Queensland_roads_and_tracks_90716c33_c8a1_4cfa_a543_005c4b835a15" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
       <layer-setting id="QPWS_access_782ff4bd_b47d_435d_a36c_1952bc4155fe" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
-      <layer-setting id="Record_a_path_2e17404b_e9fc_4fa1_98aa_4baa78115ed4" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
-      <layer-setting id="Building_Areas_ec98d7c7_bda9_4c3c_9172_665501dec9a6" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
-      <layer-setting id="Rail_network_9e9057bd_fae2_4665_a036_5cce2d3d18f7" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
-      <layer-setting id="log_f4070a57_8016_446e_8b3f_92d56c9460ab" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
-      <layer-setting id="Watercourse_lines_7d30e337_49dc_4b76_99c4_d62c16fd0d1f" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
-      <layer-setting id="Community_facilities_55251791_fbbd_4273_aae0_083f44afca06" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
       <layer-setting id="Cadastral_data_QLD_CADASTRE_DCDB_f0f37994_856a_49ac_991b_50214b4561ac" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
+      <layer-setting id="Community_facilities_55251791_fbbd_4273_aae0_083f44afca06" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
+      <layer-setting id="Emergency_services_facilities_06caa9d4_a0ae_45d0_b5d0_4faef5dc310d" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
+      <layer-setting id="Record_a_path_2e17404b_e9fc_4fa1_98aa_4baa78115ed4" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
+      <layer-setting id="Record_an_area_92f9975b_4cd4_4139_a3d6_7e5949dd4a83" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
+      <layer-setting id="Building_Areas_ec98d7c7_bda9_4c3c_9172_665501dec9a6" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
+      <layer-setting id="log_f4070a57_8016_446e_8b3f_92d56c9460ab" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
+      <layer-setting id="Rail_network_9e9057bd_fae2_4665_a036_5cce2d3d18f7" maxScale="0" type="1" enabled="0" tolerance="12" minScale="0" units="1"/>
     </individual-layer-settings>
   </snapping-settings>
   <relations/>
@@ -9470,8 +9470,8 @@ def my_form_open(dialog, layer, feature):
             <Option type="QString" value="&quot;Site Name&quot;"/>
           </Option>
           <Option type="int" name="embeddedWidgets/count" value="0"/>
-          <Option name="variableNames"/>
-          <Option name="variableValues"/>
+          <Option type="invalid" name="variableNames"/>
+          <Option type="invalid" name="variableValues"/>
         </Option>
       </customproperties>
       <blendMode>0</blendMode>

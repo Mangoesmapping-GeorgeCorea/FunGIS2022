@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveDateTime="2022-09-16T08:53:46" projectname="FunGIS Web and Mobile QGIS Workshop (QFieldCloud)" saveUserFull="George" version="3.22.11-Białowieża" saveUser="george">
+<qgis saveDateTime="2022-09-16T08:54:01" projectname="FunGIS Web and Mobile QGIS Workshop (QFieldCloud)" saveUserFull="George" version="3.22.11-Białowieża" saveUser="george">
   <homePath path=""/>
   <title>FunGIS Web and Mobile QGIS Workshop (QFieldCloud)</title>
   <autotransaction active="0"/>
@@ -41,14 +41,14 @@
           <Option/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer id="Record_a_path_2e17404b_e9fc_4fa1_98aa_4baa78115ed4" legend_exp="" patch_size="-1,-1" legend_split_behavior="0" name="Record_a_path" checked="Qt::Checked" expanded="1" source="./Data_Editable.gpkg|layername=Record_a_path" providerKey="ogr">
+      <layer-tree-layer id="Record_a_place_822e3316_8028_4714_953b_bcf309a6251a" legend_exp="" patch_size="-1,-1" legend_split_behavior="0" name="Record_a_place" checked="Qt::Checked" expanded="1" source="./Data_Editable.gpkg|layername=Record_a_place" providerKey="ogr">
         <customproperties>
           <Option type="Map">
             <Option type="int" name="showFeatureCount" value="1"/>
           </Option>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer id="Record_a_place_822e3316_8028_4714_953b_bcf309a6251a" legend_exp="" patch_size="-1,-1" legend_split_behavior="0" name="Record_a_place" checked="Qt::Checked" expanded="1" source="./Data_Editable.gpkg|layername=Record_a_place" providerKey="ogr">
+      <layer-tree-layer id="Record_a_path_2e17404b_e9fc_4fa1_98aa_4baa78115ed4" legend_exp="" patch_size="-1,-1" legend_split_behavior="0" name="Record_a_path" checked="Qt::Checked" expanded="1" source="./Data_Editable.gpkg|layername=Record_a_path" providerKey="ogr">
         <customproperties>
           <Option type="Map">
             <Option type="int" name="showFeatureCount" value="1"/>
@@ -219,14 +219,14 @@
           <legendlayerfile layerid="log_f4070a57_8016_446e_8b3f_92d56c9460ab" visible="1" isInOverview="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer showFeatureCount="1" drawingOrder="-1" name="Record_a_path" checked="Qt::Checked" open="true">
-        <filegroup hidden="false" open="true">
-          <legendlayerfile layerid="Record_a_path_2e17404b_e9fc_4fa1_98aa_4baa78115ed4" visible="1" isInOverview="0"/>
-        </filegroup>
-      </legendlayer>
       <legendlayer showFeatureCount="1" drawingOrder="-1" name="Record_a_place" checked="Qt::Checked" open="true">
         <filegroup hidden="false" open="true">
           <legendlayerfile layerid="Record_a_place_822e3316_8028_4714_953b_bcf309a6251a" visible="1" isInOverview="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer showFeatureCount="1" drawingOrder="-1" name="Record_a_path" checked="Qt::Checked" open="true">
+        <filegroup hidden="false" open="true">
+          <legendlayerfile layerid="Record_a_path_2e17404b_e9fc_4fa1_98aa_4baa78115ed4" visible="1" isInOverview="0"/>
         </filegroup>
       </legendlayer>
       <legendlayer showFeatureCount="0" drawingOrder="-1" name="Record_an_area" checked="Qt::Checked" open="true">
