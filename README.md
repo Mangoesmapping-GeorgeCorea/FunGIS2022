@@ -14,8 +14,8 @@ Click clone to download the data and project files, ideally prior to the confere
 
 ## FOLDER STRUCTURE
 
-*Complete_Example - Project and data for Web and Mobile sync
+*QField_Staging - Project and data for Web and Mobile sync
 
 *Cheat_Files - Predesigned projects/data for skipping steps
 
-*Presentation - Presentation files
+*Presentation - https://docs.google.com/presentation/d/1CByOhTp2gIikvCrLhYvZxTFb_uyvbHkk/edit?usp=sharing&ouid=112298073149416757204&rtpof=true&sd=true
