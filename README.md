@@ -1,8 +1,6 @@
-# FunGIS2022 - From QGIS Desktop to the Web/Mobile and back
+# From QGIS Desktop to the Web/Mobile and back - Spatial Olympics 2023
 
 The repo covers the worshop on QGIS Web and Mobile at the 2022 conference and has been updated for the 2023 Spatial Olypics.
-
-Click clone to download the data and project files, ideally prior to the conference.
 
 ## SPATIAL OLYMPICS 2023
 The focus here is only on the essentials required for Spatial Olypics and using ChatGPT to develop the inputs.
@@ -28,7 +26,9 @@ See Presentation below on how to use QField - the specifics for this excercise a
 
 - Add points to the 'SpatialOlympics2023 — QandA' layer (1 point for right answer and 1 point for a location point at entrance of the building)
 - Bonus points for tracking your route (100m interval) and shortest distance travelled between the most number of points.
-
+- Export the table once done (45 mins from start of activity) as a GPKG and email to data+fungis@mangoesmapping.com.au
+- Click sync (emailing data is just as a backup)
+- 
 ## ChatGPT Plus prompts to get this
 - Initial collection of information and exploration of complex possibilies
 - Creating the inputs required for QGIS
