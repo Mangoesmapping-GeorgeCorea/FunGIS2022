@@ -3,7 +3,7 @@
 The repo covers the worshop on QGIS Web and Mobile at the 2022 conference and has been updated for the 2023 Spatial Olympics.
 
 ## SPATIAL OLYMPICS 2023
-The focus here is only on the essentials required for Spatial Olypics and using ChatGPT to develop the inputs.
+The focus here is only on the essentials required for Spatial Olypics.
 
 Download QField:
 Go to your phone's app store (like the Apple App Store or Google Play Store).
