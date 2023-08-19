@@ -23,13 +23,14 @@ Click on "Community"
 You should see the 'FungisSpatailOlympics2023' project listed (by FunGISFNQ). Tap on it.
 The project will open, and you can start exploring or working on it!
 
-See Presentation below on how to use QField - the specifics for this excercise are
+See Presentation below on how to use QField - the specifics for this excercise are...
 
 - Add points to the 'SpatialOlympics2023 — QandA' layer (1 point for right answer and 1 point for a location point at entrance of the building)
-- Bonus points for tracking your route (100m interval) and shortest distance travelled between the most number of points.
+- Bonus points for tracking your route (10m interval) and shortest distance travelled between the most number of points (use the record_a_path layer).
+- The 'SpatialOlympics2023 - Locations' layer indicates where the building centerpoint is. We need the entrance to be recorded.
 - Export the table once done (45 mins from start of activity) as a GPKG and email to data+fungis@mangoesmapping.com.au
 - Click the cloud icon and then 'Push'. Do not use 'Sync'. (emailing data is just as a backup - please do this first. )
-- 
+  
 ## ChatGPT Plus prompts to get this
 - Initial collection of information and exploration of complex possibilies
 - Creating the inputs required for QGIS
