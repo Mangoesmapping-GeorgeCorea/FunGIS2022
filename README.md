@@ -26,11 +26,13 @@ The project will open, and you can start exploring or working on it!
 See the Presentation below on how to use QField - the specifics for this excercise are...
 *Presentation - https://docs.google.com/presentation/d/1CByOhTp2gIikvCrLhYvZxTFb_uyvbHkk/edit?usp=sharing&ouid=112298073149416757204&rtpof=true&sd=true
 
-- Add points to the 'SpatialOlympics2023 — QandA' layer (1 point for right answer and 1 point for a location point at entrance of the building)
-- Bonus points for tracking your route (10m interval) and shortest distance travelled between the most number of points (use the record_a_path layer).
-- The 'SpatialOlympics2023 - Locations' layer indicates where the building centerpoint is. We need the entrance to be recorded.
+Refer to the Group called "Spatial Olympics 2023"
+- Click on the Epsilon on the left, Cloud Icon and Synchronise to get the new data.
+- Add points to the 'QandA' layer (1 point for right answer and 1 point for a location point at entrance of the building)
+- Bonus points for tracking your route (10m interval) and shortest distance travelled between the most number of points (use the 'Tracklog' layer).
+- The 'Locations' layer indicates where the building centerpoint is. We need the entrance to be recorded along with a photo of your group (1 point each)
 - Export the table once done (45 mins from start of activity) as a GPKG and email to data+fungis@mangoesmapping.com.au
-- Click the cloud icon and then 'Push'. Do not use 'Sync'. (emailing data is just as a backup - please do this first. )
+- Click the cloud icon and then 'Push'. Do not use 'Sync'. (emailing data is just as a backup - please do this first.)
   
 ## ChatGPT Plus prompts to get this
 - Initial collection of information and exploration of complex possibilies - https://chat.openai.com/share/05c8fd5e-730d-48ed-b75c-e140089b8d03
