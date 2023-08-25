@@ -40,6 +40,7 @@ Refer presentation from 2022 for details on using QField - http://tiny.cc/QField
 - Initial collection of information and exploration of complex possibilies - https://chat.openai.com/share/05c8fd5e-730d-48ed-b75c-e140089b8d03
 - Creating the inputs required for QGIS - https://chat.openai.com/share/d3882bf3-6f50-4db8-9ccd-628a1bdc8d11
 - Creating a simple guide - https://chat.openai.com/share/ce37e8ae-d150-46ab-b6ae-f2fd07f26505
+- Analysing the results - https://chat.openai.com/share/ad6bcf83-42c2-4a4a-a4d7-005a088532ee
 
 ## MINIMUM REQUIREMENTS
 1. QGIS 3.26 or above from https://qgis.org/en/site/forusers/download.html
